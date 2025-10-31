@@ -1,0 +1,10 @@
+adsmetal-site/
+│
+├── index.html
+├── css/
+│   ├── style.css
+│   └── responsive.css
+├── js/
+│   └── script.js
+└── images/
+    └── (görsel dosyaları)
